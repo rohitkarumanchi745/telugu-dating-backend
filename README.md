@@ -1,6 +1,6 @@
-# Nava — AI-Powered Dating Platform Backend
+# Telugu Dating — AI-Powered Dating Platform Backend
 
-Production Python backend powering the Nava dating platform. Built with **FastAPI**, **PostgreSQL**, **Redis**, real-time **WebSocket** chat & calling, **GraphQL** (Strawberry), ML-powered matching (PyTorch), computer vision verification, and location-based discovery.
+Production Python backend powering the Telugu Dating platform. Built with **FastAPI**, **PostgreSQL**, **Redis**, real-time **WebSocket** chat & calling, **GraphQL** (Strawberry), ML-powered matching (PyTorch), computer vision verification, and location-based discovery.
 
 ## Architecture
 
@@ -304,4 +304,4 @@ tests/smoke/run_tests.sh        # Health checks
 | Environment | HTTP | WebSocket |
 |-------------|------|-----------|
 | Development | `http://localhost:8000` | `ws://localhost:8000` |
-| Production | `https://api.nava.app` | `wss://api.nava.app` |
+| Production | `https://api.telugudate.app` | `wss://api.telugudate.app` |
